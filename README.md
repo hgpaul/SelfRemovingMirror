@@ -14,4 +14,4 @@ The concept behind this project is to "remove" me from the situation, forcing on
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DZCUlKmW7Z4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=DZCUlKmW7Z4
